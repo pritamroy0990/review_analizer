@@ -1,0 +1,105 @@
+Total Review: 13
+Total Star: 59
+Star Count: {'one_star': 0, 'two_star': 0, 'three_star': 2, 'four_star': 2, 'five_star': 9}
+avarage rating 4.54
+Total Positive Review: 10
+Total Negative Review: 3
+Positive Review Percentage: 76.92307692307693
+Negative Review Percentage: 23.076923076923077
+**Strengths:**
+
+1. Spicy chicken wings
+2. Mocktails
+3. Drink options (tea, coffee, etc.)
+4. Chocolate pancakes
+5. Staff professionalism
+6. Cozy atmosphere
+
+**Common Positive Themes:**
+
+1. Food
+2. Atmosphere
+3. Service
+**Weaknesses:**
+
+1. Sour chilly ramen
+2. Rotten or unclean food (implied in "brother accepted it 100%")
+
+**Common Negative Themes:**
+
+1. Food quality (uniqueness, taste)
+2. None other common issues were found in the given reviews
+Compliments:
+- Very good food
+- Nice place to hang out
+- Cozy and nice place
+- Staffs were very professional
+- Amazing place to pass some quality time
+- Has a nice ambience
+- Delightful experience
+- Well evening experience
+Complaints:
+- The chilly ramen was very sour
+- I suggest not to try the ramen
+Recommendations:
+- Continue serving delicious food, especially the spicy chicken wings and chocolate pancakes.
+- Improve the quality of ramen to avoid sourness issues.
+- Maintain a cozy and nice atmosphere for customers to relax in.
+- Ensure staff are professional and provide good service.
+- Expand drink options to cater to different tastes.
+{'spicy chicken wings': {'positive': 1, 'negative': 0}, 'ramen': {'positive': 0, 'negative': 2}, 'chilly ramen': {'positive': 0, 'negative': 1}}
+unnamed column not removed.
+Google Review page downloaded..
+Screaped Data saved in csv
+This step will take huge time for analyzing review by AI
+Successfully Analyzed and saved information..
+plz wait, LLM analysis and extracting important information..
+**Strengths:**
+
+1. Spicy chicken wings
+2. Mocktails
+3. Tea options
+4. Coffee options
+5. Chocolate pancakes
+6. Nice atmosphere/cozy place
+7. Professional staff
+8. Unique food
+9. Quality time
+
+**Common Positive Themes:**
+
+1. Food (good, unique)
+2. Atmosphere/Cosy Place
+3. Service/Staff (professional)
+**Weaknesses:**
+
+1. Spicy chicken wings are not mentioned as having any issues.
+2. Ramen is reported to be sour (by 2 reviewers).
+3. None.
+
+**Common negative themes:**
+
+1. Food (ramen being sour)
+2. No other common negative themes identified.
+Compliments:
+- Nice place to hang out.
+- Very cozy and nice place...
+- Staffs were very professional...
+- Nice food and service
+- Its an amazing place to pass some quality time
+- It has a nice ambience.
+- Food was very good and unique
+- An incredibly well evening experience
+Complaints:
+- Chilly ramen was sour
+- Ramen was bad
+- Price not mentioned, but one review implies it's a bit pricey compared to the city crowd
+Recommendations:
+- Continue offering a variety of refreshing drinks, including mocktails.
+- Maintain the cozy and nice ambiance to make customers feel comfortable.
+- Keep serving unique food options that are well-prepared and presented.
+- Improve the consistency of the chilly ramen by adjusting the seasoning to avoid it being too sour.
+- Provide attentive and professional service from staff.
+{'spicy chicken wings': {'positive': 1, 'negative': 0}, 'ramen': {'positive': 2, 'negative': 3}, 'tea': {'positive': 2, 'negative': 0}, 'chocolate pancakes': {'positive': 2, 'negative': 1}, 'pancakes': {'positive': 2, 'negative': 0}, 'coffee': {'positive': 1, 'negative': 0}}
+unnamed column not removed.
+Analysing successfully completed and information saved.
