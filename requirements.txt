@@ -13,3 +13,4 @@ seaborn
 plotly
 streamlit
 streamlit-option-menu
+nltk
